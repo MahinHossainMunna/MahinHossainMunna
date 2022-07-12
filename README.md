@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-<br />
 
 ### Languages and Tools:
 
@@ -59,7 +58,8 @@ Here are some ideas to get you started:
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/314vjld4s7g37tpb752x6rownnwm)
+<!-- [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/314vjld4s7g37tpb752x6rownnwm)-->
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 <br/>
 
 ---
