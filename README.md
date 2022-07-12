@@ -13,12 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello World 👋, I'm <a href="https://about.me/mahinhossain" target="_blank">###Mahin</a>!
+## Hello World 👋, I'm <a href="https://about.me/mahinhossain" target="_blank">Mahin</a>!
 
-- 🔭 I’m currently working on ###Intregated Data Management Software
-- 🌱 I’m currently learning ###Django
-- 💬 Ask me about ###myself
-- 📫 How to reach me: <a href="https://github.com/MahinHossainMunna" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" /></a>
+- 🔭 I’m currently working on Intregated Data Management Software
+- 🌱 I’m currently learning Django
+- 💬 Ask me about myself
+- 📫 How to reach me: 
+- <a href="https://github.com/MahinHossainMunna" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" /></a>
 <a href="https://linkedin.com/in/MahinHosssainMunna" target="_blank"><img align="left" alt="MahinHossainMunna | LinkedIn" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />
   <a href="https://www.instagram.com/mh.mrmenace/" target="_blank"><img align="left" alt="mh.MrMenace | Instagram" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" />
   </a>
@@ -32,7 +33,7 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" /></a>
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg"/> </a>
