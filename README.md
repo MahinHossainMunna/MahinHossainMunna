@@ -13,14 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello World 👋, I'm <a href="https://about.me/mahinhossain" target="_blank">Mahin</a>!
+## Hello World 👋, I'm <a href="https://about.me/mahinhossain" target="_blank">###Mahin</a>!
 
-- 🔭 I’m currently working on Intregated Data Management Software
-- 🌱 I’m currently learning Django
-- 💬 Ask me about myself
-- 📫 How to reach me:
-  <a href="https://github.com/MahinHossainMunna" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" /></a>
-  <a href="https://linkedin.com/in/MahinHosssainMunna" target="_blank"><img align="left" alt="MahinHossainMunna | LinkedIn" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />
+- 🔭 I’m currently working on ###Intregated Data Management Software
+- 🌱 I’m currently learning ###Django
+- 💬 Ask me about ###myself
+- 📫 How to reach me: <a href="https://github.com/MahinHossainMunna" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" /></a>
+<a href="https://linkedin.com/in/MahinHosssainMunna" target="_blank"><img align="left" alt="MahinHossainMunna | LinkedIn" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />
   <a href="https://www.instagram.com/mh.mrmenace/" target="_blank"><img align="left" alt="mh.MrMenace | Instagram" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" />
   </a>
 - 😄 Pronouns: He/Him
@@ -43,6 +42,7 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 <br />
 <br />
+
 ### Softwares:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
