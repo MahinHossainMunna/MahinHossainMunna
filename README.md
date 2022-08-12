@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Django
 - 💬 Ask me about myself
 - 📫 How to reach me: 
-- <a href="https://github.com/MahinHossainMunna" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" /></a>
+- <a href="https://github.com/MahinHossainMunna" target="_blank"><img align="left" alt="mahinhossain.me" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" /></a>
 <a href="https://linkedin.com/in/MahinHosssainMunna" target="_blank"><img align="left" alt="MahinHossainMunna | LinkedIn" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />
   <a href="https://www.instagram.com/mh.mrmenace/" target="_blank"><img align="left" alt="mh.MrMenace | Instagram" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" />
   </a>
