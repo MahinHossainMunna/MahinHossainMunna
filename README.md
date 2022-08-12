@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br />
 - Curriculam Vitae of myself
 <a href="https://github.com/MahinHossainMunna/MahinHossainMunna/blob/main/CV%20of%20Md.%20Mahin%20Hossain%20Munna%20(full).pdf" target="_blank"><img align="left" alt="Full CV of MahinHossain" width="22px" src="https://user-images.githubusercontent.com/49342403/184330519-6e0e7587-4f05-46f6-8f0f-058e306b7f55.png" /></a>
-<a href="https://github.com/MahinHossainMunna/MahinHossainMunna/blob/main/CV%20of%20Md.%20Mahin%20Hossain%20Munna%20(minimal).pdf" target="_blank"><img align="left" alt="Minimal CV of MahinHossain" width="22px" src="https://user-images.githubusercontent.com/49342403/184331418-14afef70-d56e-4685-aa52-eea5c0992838.png" /></a>
+<a href="https://github.com/MahinHossainMunna/MahinHossainMunna/blob/main/CV%20of%20Md.%20Mahin%20Hossain%20Munna%20(minimal).pdf" target="_blank"><img align="left" alt="Minimal CV of MahinHossain" width="22px" src="https://user-images.githubusercontent.com/49342403/184331748-9d0b1e83-4168-4af0-80fd-77d59ed6b4a2.png" /></a>
 
 <br />
 
