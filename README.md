@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 ## Hello World 👋, I'm <a href="https://about.me/mahinhossain" target="_blank">Mahin</a>!
 
-- 🔭 I’m currently working on Intregated Data Management Software
-- 🌱 I’m currently learning Django
+- 🔭 I’m currently working on Intregated Data Management Software 
+- 🌱 I’m currently learning Django & Android
 - 💬 Ask me about myself
 - 📫 How to reach me: 
 - <a href="https://github.com/MahinHossainMunna" target="_blank"><img align="left" alt="mahinhossain.me" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" /></a>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br />
 - Curriculam Vitae of myself
 <a href="https://github.com/MahinHossainMunna/MahinHossainMunna/blob/main/CV%20of%20Md.%20Mahin%20Hossain%20Munna%20(full).pdf" target="_blank"><img align="left" alt="Full CV of MahinHossain" width="22px" src="https://user-images.githubusercontent.com/49342403/184332320-0501dff2-fd6d-40fe-8503-a27023ccf143.png" /></a>
-<a href="https://github.com/MahinHossainMunna/MahinHossainMunna/blob/main/CV%20of%20Md.%20Mahin%20Hossain%20Munna%20(minimal).pdf" target="_blank"><img align="left" alt="Minimal CV of MahinHossain" width="22px" src="https://user-images.githubusercontent.com/49342403/184332031-f9a4c70b-ea63-4b41-8a4a-b92b884c7b60.png" /></a>
+<a href="https://github.com/MahinHossainMunna/MahinHossainMunna/blob/main/Md.%20Mahin%20Hossain%20Munna.pdf" target="_blank"><img align="left" alt="Minimal CV of MahinHossain" width="22px" src="https://user-images.githubusercontent.com/49342403/184332031-f9a4c70b-ea63-4b41-8a4a-b92b884c7b60.png" /></a>
 
 <br />
 
@@ -50,6 +50,9 @@ Here are some ideas to get you started:
 ### Softwares:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Android Studio" width="26px" src="https://github.com/MahinHossainMunna/MahinHossainMunna/blob/main/icons/android-studio.png" />
+<img align="left" alt="Jupyter" width="26px" src="https://github.com/MahinHossainMunna/MahinHossainMunna/blob/main/icons/jupyter.png" />
+<img align="left" alt="Pycharm" width="26px" src="https://github.com/MahinHossainMunna/MahinHossainMunna/blob/main/icons/pycharm.png" />
 <!--<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/> </a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
