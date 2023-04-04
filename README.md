@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 <br />
 - Curriculam Vitae of myself
-<a href="https://github.com/MahinHossainMunna/MahinHossainMunna/blob/main/CV%20of%20Md.%20Mahin%20Hossain%20Munna%20(full).pdf" target="_blank"><img align="left" alt="Full CV of MahinHossain" width="22px" src="https://user-images.githubusercontent.com/49342403/184332320-0501dff2-fd6d-40fe-8503-a27023ccf143.png" /></a>
-<a href="https://github.com/MahinHossainMunna/MahinHossainMunna/blob/main/Md.%20Mahin%20Hossain%20Munna.pdf" target="_blank"><img align="left" alt="Minimal CV of MahinHossain" width="22px" src="https://user-images.githubusercontent.com/49342403/184332031-f9a4c70b-ea63-4b41-8a4a-b92b884c7b60.png" /></a>
+<a href="https://github.com/MahinHossainMunna/MahinHossainMunna/blob/main/CV%20of%20Mahin%20Hossain%20Munna.pdf" target="_blank"><img align="left" alt="Full CV of MahinHossain" width="22px" src="https://user-images.githubusercontent.com/49342403/184332320-0501dff2-fd6d-40fe-8503-a27023ccf143.png" /></a>
+<a href="https://github.com/MahinHossainMunna/MahinHossainMunna/blob/main/CV%20(m)%20of%20Mahin%20Hossain%20Munna.pdf" target="_blank"><img align="left" alt="Minimal CV of MahinHossain" width="22px" src="https://user-images.githubusercontent.com/49342403/184332031-f9a4c70b-ea63-4b41-8a4a-b92b884c7b60.png" /></a>
 
 <br />
 
