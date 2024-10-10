@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
-- 🔭 I’m currently working on Intregated Data Management Software and Data Analyst
-- 🌱 I’m currently learning R
+- 🔭 I’m currently working on LLM Based AI Chatbot
+- 🌱 I’m currently learning NLP, AI Models
 - 💬 Ask me about myself
 - 📫 How to reach me: 
 - <a href="https://github.com/MahinHossainMunna" target="_blank"><img align="left" alt="mahinhossain.me" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" /></a>
