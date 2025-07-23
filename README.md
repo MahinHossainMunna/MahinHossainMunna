@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" /></a>
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg"/> </a>
-<a href="https://streamlit.io" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/MahinHossainMunna/MahinHossainMunna/blob/main/icons/streamlit-logo-secondary-colormark-lighttext.png"/> </a>
+<a href="https://streamlit.io" target="_blank"> <img align="left" alt="Python" width="26px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg"/> </a>
 <a href="https://www.java.com/en/" target="_blank"> <img align="left" alt="git" width="26px" src="https://github.com/MahinHossainMunna/MahinHossainMunna/blob/main/icons/java.png"/> </a>
