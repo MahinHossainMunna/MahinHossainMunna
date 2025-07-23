@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World 👋, I'm <a href="https://about.me/mahinhossain" target="_blank">Mahin</a>!</h1>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/https%3A%2F%2Fstreamlit.io%2Fimages%2Fbrand%2Fstreamlit-mark-color.svg?style=for-the-badge&logo=Streamlit&logoColor=b73a3c&label=Streamlit&labelColor=0d1117)
+![Streamlit](https://img.shields.io/badge/https%3A%2F%2Fstreamlit.io%2Fimages%2Fbrand%2Fstreamlit-mark-color.svg?style=plastic&logo=Streamlit&logoColor=b73a3c&label=Streamlit&labelColor=0d1117)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
