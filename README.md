@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World 👋, I'm <a href="https://about.me/mahinhossain" target="_blank">Mahin</a>!</h1>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/https%3A%2F%2Fstreamlit.io%2Fimages%2Fbrand%2Fstreamlit-mark-color.svg?style=for-the-badge&logo=Streamlit&logoColor=b73a3c&label=Streamlit&labelColor=0d1117)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -23,8 +24,8 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
-- 🔭 I’m currently working on LLM Based AI Chatbot
-- 🌱 I’m currently learning NLP, AI Models
+- 🔭 I’m currently working on to be a Database Administrator
+- 🌱 I’m currently learning Oracle, Database Administration, NLP, AI Models
 - 💬 Ask me about myself
 - 📫 How to reach me: 
 - <a href="https://github.com/MahinHossainMunna" target="_blank"><img align="left" alt="mahinhossain.me" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" /></a>
@@ -32,11 +33,11 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/mh.mrmenace/" target="_blank"><img align="left" alt="mh.MrMenace | Instagram" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" />
   </a>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a Gamer, Loves music, Write poetries in Bengali.
+- ⚡ Fun fact: I am a Gamer-Streamer, Loves music, Creates contents on Facebook-Youtube-Tiktok-Instagram for gaming.
 
 <br />
 - Curriculam Vitae of myself
-<a href="https://github.com/MahinHossainMunna/MahinHossainMunna/blob/main/CV%20of%20Mahin%20Hossain%20Munna.pdf" target="_blank"><img align="left" alt="Full CV of MahinHossain" width="22px" src="https://user-images.githubusercontent.com/49342403/184332320-0501dff2-fd6d-40fe-8503-a27023ccf143.png" /></a>
+<a href="https://github.com/MahinHossainMunna/MahinHossainMunna/blob/main/Md__Mahin_Hossain_Munna_CV_final_.pdf" target="_blank"><img align="left" alt="Full CV of MahinHossain" width="22px" src="https://user-images.githubusercontent.com/49342403/184332320-0501dff2-fd6d-40fe-8503-a27023ccf143.png" /></a>
 <a href="https://github.com/MahinHossainMunna/MahinHossainMunna/blob/main/CV%20(m)%20of%20Mahin%20Hossain%20Munna.pdf" target="_blank"><img align="left" alt="Minimal CV of MahinHossain" width="22px" src="https://user-images.githubusercontent.com/49342403/184332031-f9a4c70b-ea63-4b41-8a4a-b92b884c7b60.png" /></a>
 
 <br />
@@ -46,6 +47,7 @@ Here are some ideas to get you started:
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" /></a>
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg"/> </a>
+<a href="https://streamlit.io" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/MahinHossainMunna/MahinHossainMunna/blob/main/icons/streamlit-logo-secondary-colormark-lighttext.png"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg"/> </a>
 <a href="https://www.java.com/en/" target="_blank"> <img align="left" alt="git" width="26px" src="https://github.com/MahinHossainMunna/MahinHossainMunna/blob/main/icons/java.png"/> </a>
